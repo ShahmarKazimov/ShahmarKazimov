@@ -58,7 +58,7 @@ I'm a dedicated Frontend Developer with a passion for creating responsive, elega
 ---
 
 ## 🏢 Professional Experience
-- **Frontend Developer Intern** at **Must Analytics GMBH** (March 2025 – Present)  
+- **Frontend Developer Intern** at **Must Analytics GMBH** (March 2025 – May 2025)  
   • Contributed to frontend development for large-scale web applications, focusing on clean architecture and maintainable code.  
  
   • Specialized in building responsive user interfaces, integrating APIs, and optimizing performance while collaborating with cross-functional teams to ensure efficient system functionality and seamless user experiences.
